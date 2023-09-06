@@ -1,3 +1,3 @@
 # Demo
 <br>
-Author - Kartikay Sinha
+Author - Kartikay (Sinha)
